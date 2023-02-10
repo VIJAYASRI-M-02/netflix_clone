@@ -24,6 +24,19 @@
 .nav__avatar {
   width: 30px;
   position: fixed;
+  right: 100px;
+  object-fit: contain;
+}
+.logout__button{
+  position: fixed;
   right: 20px;
   object-fit: contain;
+font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 6px;
+  display: flex;
+  color: white;
+  background-color: red;
+  border-style: none;
+  border-radius: 2px;
 }
